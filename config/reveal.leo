@@ -47,7 +47,7 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
 
-### KMOLab
+### s40723216 cad2019
 
 &lt;small&gt;
 Created by [40723216](https://s40723216.github.io/cad2019/content/Week1~9.html)
