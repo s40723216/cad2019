@@ -46,7 +46,17 @@
 <p>3.再來是<span>增加路徑及改下面一條，最後面增加<span>%path_webots%;</span></span></p>
 <p>4.<span>再去啟動start</span></p>
 <p>5.<span>開啟完成</span></p>
-<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/bxRBRcg07NU" width="560"></iframe></span></p><h2>Week10~14</h2>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/bxRBRcg07NU" width="560"></iframe></span></p>
+<p><span color="#ff0000">以ssh對github連線:</span></p>
+<p><span color="#ff0000">1.到y槽的portablegit將sh_for_solvespace檔案複製並修改成sh.exe</span></p>
+<p><span color="#ff0000"><span>2.進入黑窗輸入sh和</span></span><span><code>ssh-keygen -t rsa -b 4096 -C "使用者學號"</code></span></p>
+<p><span face="monospace"><span>3.下載putty連線工具箱並利用其中的putty.gen創建兩把金鑰</span></span></p>
+<p><span face="monospace"><span>4.修改啟動器中的指令</span></span></p>
+<pre><code><span>set GIT_HOME=%Disk%:\portablegit\bin\
+set GIT_SSH=%Disk%:\putty\plink.exe</span><br/><br/><span>5.</span>進入config中更改指令</code><code><span>url = git@github.com:mdecourse/cad2019.git</span>在mdecourse的地方要改成自己的學號</code></pre>
+<p><span face="monospace"><span>6.開啟putty.exe進去設定github.com和proxy位置其中ssh中的auth的地方必須選取剛剛創建的金鑰</span></span></p>
+<p><span face="monospace"><span>7.用編輯器複製課程網站中的step6指令並且儲存放入.ssh資料夾之中</span></span></p>
+<p><span face="monospace"><span>8.進入github並且在setting中的ssh將金鑰開啟並複製放入金鑰設置處</span></span></p><h2>Week10~14</h2>
 <p>第10週:Fork倉儲</p>
 <p>1.登入自己的github，並且搜尋自己小組的分組倉儲</p>
 <p>2.點選右上角的fork，再點選自己的倉儲</p>
@@ -188,7 +198,12 @@ NX 12中的環境，它在主窗口中顯示所有草圖工具。<br/>用於草�
 <pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"> </span></pre>
 </div>
 <pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"><span> </span></span></pre>
-<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"><br/></span><span lang="zh-TW" tabindex="0"> </span></pre>
+<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"><br/></span><span lang="zh-TW" tabindex="0"> 導入<strong>GitExtensions<br/><br/></strong></span>1.打開D槽，進入data，開啟GitExtensions</pre>
+<p>2.進setting，設定home路徑</p>
+<p>3.設定SSH路徑改putty</p>
+<p>4.開啟倉儲，點tools的git gul</p>
+<p>5.再來stage -commit -push即可</p>
+<pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"> </span></pre>
 <pre class="tw-data-text tw-text-large tw-ta" data-placeholder="翻譯" dir="ltr"><span lang="zh-TW" tabindex="0"><span></span></span></pre><h2>Week15~18</h2>
 <h5>W17任務</h5>
 <p>以下為W17的任務內容以及翻譯原文書</p>
