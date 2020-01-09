@@ -56,16 +56,18 @@
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
 <link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
 <script type="text/javascript">SyntaxHighlighter.all();</script>
 
-<!-- for LaTeX equations 暫時不用
+<!-- 啟用 LaTeX equations 編輯 -->
 <script src="https://scrum-3.github.io/web/math/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
 <script type="text/javascript">
 init_mathjax = function() {
@@ -86,7 +88,7 @@ init_mathjax = function() {
 }
 init_mathjax();
 </script>
--->
+
 <!-- 暫時不用
 <script src="./../cmsimde/static/fengari-web.js"></script>
 <script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
@@ -97,6 +99,11 @@ init_mathjax();
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
 -->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
 
 </head>
 <body>
@@ -136,7 +143,7 @@ init_mathjax();
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li class='has-children'><a href='Week.html'>Week</a><ul class='dropdown'><li><a href='Week2~5.html'>Week2~5</a><li><a href='Week6~9.html'>Week6~9</a><li><a href='Week10~14.html'>Week10~14</a><li class='has-children'><a href='Week15~18.html'>Week15~18</a><ul class='dropdown'><li><a href='W17.html'>W17</a></li></li></ul></ul><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
+                     <li class='has-children'><a href='Week.html'>Week</a><ul class='dropdown'><li><a href='Week2~5.html'>Week2~5</a><li><a href='Week6~9.html'>Week6~9</a><li><a href='Week10~14.html'>Week10~14</a><li><a href='Week15~18.html'>Week15~18</a></li></ul><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
                       </ul>
                 </nav>
               </div>
@@ -148,7 +155,7 @@ init_mathjax();
           
         </header>
     <div id="tipue_search_content">Week << <a href='Week.html'>Previous</a> <a href='Week6~9.html'>Next</a> >> Week6~9<br /><h1>Week2~5</h1>
-<p>第二周為建立個人倉儲</p>
+<p>建立個人倉儲</p>
 <p>1.進入老師網站下載2019fall</p>
 <p>2.進入github建立新倉儲</p>
 <p>3.接著把倉儲的網址clone至隨身碟中</p>
@@ -157,14 +164,12 @@ init_mathjax();
 <p>6.修改好後按下save並轉成靜態網站</p>
 <p>7.使用git status git add . git commit git push 來將更新完的資料推上github</p>
 <p>下連結為操作影片:<a href="https://youtu.be/zWk2l1IycY8">https://youtu.be/zWk2l1IycY8</a></p>
-<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/zWk2l1IycY8" width="560"></iframe></p>
-<p>第三周為編譯solvespace</p>
+<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/zWk2l1IycY8" width="560"></iframe>第三周為編譯solvespace</p>
 <p>1.至老師的首頁並將游標移至TASK接著點選SOLIVESPACE編譯</p>
 <p>2.進入solviespace編譯後裡面就有清楚交代每個步驟來進行編譯</p>
 <p>3.跟著步驟做完後再將老師給的.dall補釘包下載下來複製貼上到cad2019中來補齊缺失的檔案</p>
 <p>下連結為操作影片:<a href="https://youtu.be/KsRULmWi-Os">https://youtu.be/KsRULmWi-Os</a></p>
-<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/KsRULmWi-Os" width="560"></iframe></p>
-<p>第五周為操作solvespace</p>
+<p><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" height="314" src="https://www.youtube.com/embed/KsRULmWi-Os" width="560"></iframe>第五周為操作solvespace</p>
 <p>基本上就是跟著影片裡的人一起操作</p>
 <p>裡面也有解說基本的快捷鍵以及限制條件的方法</p>
 <p>下連結為操作影片:<a href="https://youtu.be/ZvZRASkGty8">https://youtu.be/ZvZRASkGty8</a></p>
