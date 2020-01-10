@@ -41,15 +41,17 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## s40723216簡報
 
-### s40723216 cad2019
+
 
 &lt;small&gt;
 Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 &lt;/small&gt;
 
-[網站](https://s40723216.github.io/cad2019/blog/index.html)
-[倉儲](https://github.com/s40723216/cad2019)
-[blog](https://s40723216.github.io/cad2019/blog/index.html)
+#[網站](https://s40723216.github.io/cad2019/blog/index.html)
+
+#[倉儲](https://github.com/s40723216/cad2019)
+
+#[blog](https://s40723216.github.io/cad2019/blog/index.html)
 
 
 </t>
@@ -62,7 +64,8 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># WEEK1 中秋連假
+<t tx="leo.20180902120523.12"># WEEK1 
+中秋連假
 
 
 </t>
@@ -103,7 +106,7 @@ $$I = \int \rho R^{2} dV$$
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+s40723216簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
