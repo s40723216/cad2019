@@ -59,10 +59,7 @@
 <v t="leo.20191213153850.2"><vh>week9-1</vh></v>
 </v>
 <v t="leo.20191213154005.1"><vh>week10</vh>
-<v t="leo.20200110124537.1"><vh>week10</vh>
-<v t="leo.20200110124537.2"><vh>week10-1</vh></v>
-</v>
-<v t="leo.20191213154005.2"><vh>week10-1</vh></v>
+<v t="leo.20200110124537.1"><vh>week10-1</vh></v>
 </v>
 <v t="leo.20191213154247.1"><vh>week11</vh>
 <v t="leo.20191213154247.2"><vh>week11-1</vh></v>
@@ -456,25 +453,6 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20191213154005.2">### week10
-#### ◎以ssh對github連線
-#####1.到y槽的portablegit將sh_for_solvespace檔案複製並修改成sh.exe
-
-#####2.進入黑窗輸入sh和ssh-keygen -t rsa -b 4096 -C "使用者學號"
-
-#####3.下載putty連線工具箱並利用其中的putty.gen創建兩把金鑰
-
-#####4.修改啟動器中的指令
-
-set GIT_HOME=%Disk%:\portablegit\bin\
-set GIT_SSH=%Disk%:\putty\plink.exe
-
-#####5.進入config中更改指令url = git@github.com:mdecourse/cad2019.git在mdecourse的地方要改成自己的學號
-#####6.開啟putty.exe進去設定github.com和proxy位置其中ssh中的auth的地方必須選取剛剛創建的金鑰
-
-#####7.用編輯器複製課程網站中的step6指令並且儲存放入.ssh資料夾之中
-
-#####8.進入github並且在setting中的ssh將金鑰開啟並複製放入金鑰設置處</t>
 <t tx="leo.20191213154247.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -483,8 +461,9 @@ set GIT_SSH=%Disk%:\putty\plink.exe
 </t>
 <t tx="leo.20191213154247.2">### week11
 #### ◎組員個別整理電子書內容
-&lt;iframe width="560" height="315" src="https://youtu.be/kULMk6BK79Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+#####https://s40723216.github.io/cad2019/content/Week10~14.html
+
+此連結裡面有我被分配之原文書翻譯部分</t>
 <t tx="leo.20200110114750.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -494,7 +473,7 @@ set GIT_SSH=%Disk%:\putty\plink.exe
 <t tx="leo.20200110114750.2">### week15
 #### ◎簡介自己倉儲
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VCCIsJUSYXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eWwsbJOIqO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200110115519.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -502,10 +481,8 @@ set GIT_SSH=%Disk%:\putty\plink.exe
 &lt;/section&gt;
 </t>
 <t tx="leo.20200110115519.2">### week14
-#### ◎Webots Tutorial-2-操作過程
-#### [webot簡報](https://cyberbotics.com/doc/guide/tutorial-2-modification-of-the-environment)
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/psW0U8kAq-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+#### ◎導入GitExtensions
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qRwxHD8djaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200110115804.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -528,13 +505,7 @@ set GIT_SSH=%Disk%:\putty\plink.exe
 ##### 分組text[翻譯資料](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm )
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0LYQDLtd1cg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20200110124537.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200110124537.2">### week10
+<t tx="leo.20200110124537.1">### week10
 #### ◎以ssh對github連線
 #####1.到y槽的portablegit將sh_for_solvespace檔案複製並修改成sh.exe
 
