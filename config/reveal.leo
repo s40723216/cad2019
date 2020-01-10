@@ -385,8 +385,7 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 </t>
 <t tx="leo.20191213152115.2">### week6
 #### ◎架設blog
-&lt;iframe width="560" height="315" src="https://youtu.be/L9YAYsLsORM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/L9YAYsLsORM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191213152359.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -395,8 +394,7 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 </t>
 <t tx="leo.20191213152359.2">### week3
 #### ◎Solvespace debugger編譯
-&lt;iframe width="560" height="315" src="https://youtu.be/KsRULmWi-Os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KsRULmWi-Os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191213152656.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -405,8 +403,7 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 </t>
 <t tx="leo.20191213152656.2">### week1
 #### ◎更新完網站的推送過程
-&lt;iframe width="560" height="315" src="https://youtu.be/zWk2l1IycY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zWk2l1IycY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191213153119.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -415,8 +412,7 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 </t>
 <t tx="leo.20191213153119.2">### week5
 #### ◎Solvespace 零件繪製
-&lt;iframe width="560" height="315" src="https://youtu.be/ZvZRASkGty8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZvZRASkGty8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191213153401.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -425,8 +421,7 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 </t>
 <t tx="leo.20191213153401.2">### week7
 #### ◎V-rep無人車控制
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=8QXpQHpCAAs&amp;feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RSXMG1_c9_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191213153619.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -435,8 +430,7 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 </t>
 <t tx="leo.20191213153619.2">### week8
 #### ◎solvespace編譯-從HELP中ABOUT的學號
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=VQS2gs--BxE&amp;feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VQS2gs--BxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20191213153850.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -445,7 +439,7 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 </t>
 <t tx="leo.20191213153850.2">### week9
 #### ◎webot啟動檔設定
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=bxRBRcg07NU&amp;feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bxRBRcg07NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20191213154005.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -504,26 +498,10 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 
 ##### 分組text[翻譯資料](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm )
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0LYQDLtd1cg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9kX47gpgyhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200110124537.1">### week10
-#### ◎以ssh對github連線
-#####1.到y槽的portablegit將sh_for_solvespace檔案複製並修改成sh.exe
-
-#####2.進入黑窗輸入sh和ssh-keygen -t rsa -b 4096 -C "使用者學號"
-
-#####3.下載putty連線工具箱並利用其中的putty.gen創建兩把金鑰
-
-#####4.修改啟動器中的指令
-
-set GIT_HOME=%Disk%:\portablegit\bin\
-set GIT_SSH=%Disk%:\putty\plink.exe
-
-#####5.進入config中更改指令url = git@github.com:mdecourse/cad2019.git在mdecourse的地方要改成自己的學號
-#####6.開啟putty.exe進去設定github.com和proxy位置其中ssh中的auth的地方必須選取剛剛創建的金鑰
-
-#####7.用編輯器複製課程網站中的step6指令並且儲存放入.ssh資料夾之中
-
-#####8.進入github並且在setting中的ssh將金鑰開啟並複製放入金鑰設置處</t>
+####◎以ssh對github連線
+</t>
 <t tx="leo.20200110125134.1">### cad2019bg5 期末亂數分組
 
 ##### 第五組
