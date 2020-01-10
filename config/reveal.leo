@@ -23,6 +23,9 @@
 <v t="leo.20191213144237.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20191213150029.1"><vh>分組</vh>
+<v t="leo.20200110125134.1"><vh>分組</vh>
+<v t="leo.20200110125134.2"><vh>week</vh></v>
+</v>
 <v t="leo.20191213150029.2"><vh>week</vh></v>
 </v>
 <v t="leo.20191213151238.1"><vh>評分</vh>
@@ -349,19 +352,11 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
 </t>
 <t tx="leo.20191213144252.2">
 </t>
-<t tx="leo.20191213150029.1">### cad2019bg5 期末亂數分組
-
-##### 第五組
-##### 以下為組員及其倉儲
-[cad2019bg5 網站](https://s40723210.github.io/cad2019bg5/content/index.html)
-###### [40523252  王彥筑](https://s40723205.github.io/cad2019/content/index.html)
-###### [40723207  吳文翔](https://s40723207.github.io/cad2019/)
-###### [40723210  李承澤](https://s40723210.github.io/cad2019/)
-###### [40723216  林子欽](https://s40723216.github.io/cad2019/)
-##### [40723226  高立倫](https://s40723226.github.io/cad2019/)
-##### [40723232  陳鈺凱](https://s40723232.github.io/cad2019/)
-###### [40723236  黃宏裕](https://s40723236.github.io/cad2019/)
-###### [40732319  林鉦淯](https://s40732319.github.io/cad2019/)</t>
+<t tx="leo.20191213150029.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20191213150029.2"># WEEK1 
 中秋連假
 
@@ -487,7 +482,7 @@ set GIT_SSH=%Disk%:\putty\plink.exe
 &lt;/section&gt;
 </t>
 <t tx="leo.20191213154247.2">### week11
-#### ◎Fork倉儲
+#### ◎組員個別整理電子書內容
 &lt;iframe width="560" height="315" src="https://youtu.be/kULMk6BK79Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200110114750.1">&lt;section data-markdown&gt;
@@ -558,5 +553,31 @@ set GIT_SSH=%Disk%:\putty\plink.exe
 #####7.用編輯器複製課程網站中的step6指令並且儲存放入.ssh資料夾之中
 
 #####8.進入github並且在setting中的ssh將金鑰開啟並複製放入金鑰設置處</t>
+<t tx="leo.20200110125134.1">### cad2019bg5 期末亂數分組
+
+##### 第五組
+##### 以下為組員及其倉儲
+[cad2019bg5 網站](https://s40723210.github.io/cad2019bg5/content/index.html)
+###### [40523252  王彥筑](https://s40723205.github.io/cad2019/content/index.html)
+###### [40723207  吳文翔](https://s40723207.github.io/cad2019/)
+###### [40723210  李承澤](https://s40723210.github.io/cad2019/)
+###### [40723216  林子欽](https://s40723216.github.io/cad2019/)
+##### [40723226  高立倫](https://s40723226.github.io/cad2019/)
+##### [40723232  陳鈺凱](https://s40723232.github.io/cad2019/)
+###### [40723236  黃宏裕](https://s40723236.github.io/cad2019/)
+###### [40732319  林鉦淯](https://s40732319.github.io/cad2019/)</t>
+<t tx="leo.20200110125134.2">### cad2019bg5 期末亂數分組
+
+##### 第五組
+##### 以下為組員及其倉儲
+[cad2019bg5 網站](https://s40723210.github.io/cad2019bg5/content/index.html)
+###### [40523252  王彥筑](https://s40723205.github.io/cad2019/content/index.html)
+###### [40723207  吳文翔](https://s40723207.github.io/cad2019/)
+###### [40723210  李承澤](https://s40723210.github.io/cad2019/)
+###### [40723216  林子欽](https://s40723216.github.io/cad2019/)
+##### [40723226  高立倫](https://s40723226.github.io/cad2019/)
+##### [40723232  陳鈺凱](https://s40723232.github.io/cad2019/)
+###### [40723236  黃宏裕](https://s40723236.github.io/cad2019/)
+###### [40732319  林鉦淯](https://s40732319.github.io/cad2019/)</t>
 </tnodes>
 </leo_file>
