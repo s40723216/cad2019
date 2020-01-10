@@ -18,15 +18,75 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
+<v t="leo.20191213144237.1"><vh>封面投影片</vh>
+<v t="leo.20191213144237.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20191213150029.1"><vh>分組</vh>
+<v t="leo.20191213150029.2"><vh>week</vh></v>
+</v>
+<v t="leo.20191213151238.1"><vh>評分</vh>
+<v t="leo.20191213151238.2"><vh>評分機制</vh></v>
+</v>
+<v t="leo.20191101144738.1"><vh>week2~9</vh>
+<v t="leo.20191101144826.1"><vh>week</vh></v>
+</v>
+<v t="leo.20191213143935.1"><vh>week10~14</vh>
+<v t="leo.20191213143935.3"><vh>week</vh></v>
+</v>
+<v t="leo.20191213152656.1"><vh>week1</vh>
+<v t="leo.20191213152656.2"><vh>week1-1</vh></v>
+</v>
+<v t="leo.20191213152359.1"><vh>week3</vh>
+<v t="leo.20191213152359.2"><vh>week3-1</vh></v>
+</v>
+<v t="leo.20191213153119.1"><vh>week5</vh>
+<v t="leo.20191213153119.2"><vh>week5-1</vh></v>
+</v>
+<v t="leo.20191213152115.1"><vh>week6</vh>
+<v t="leo.20191213152115.2"><vh>week6-1</vh></v>
+</v>
+<v t="leo.20191213153401.1"><vh>week7</vh>
+<v t="leo.20191213153401.2"><vh>week7-1</vh></v>
+</v>
+<v t="leo.20191213153619.1"><vh>week8</vh>
+<v t="leo.20191213153619.2"><vh>week8-1</vh></v>
+</v>
+<v t="leo.20191213153850.1"><vh>week9</vh>
+<v t="leo.20191213153850.2"><vh>week9-1</vh></v>
+</v>
+<v t="leo.20191213154005.1"><vh>week10</vh>
+<v t="leo.20200110124537.1"><vh>week10</vh>
+<v t="leo.20200110124537.2"><vh>week10-1</vh></v>
+</v>
+<v t="leo.20191213154005.2"><vh>week10-1</vh></v>
+</v>
+<v t="leo.20191213154247.1"><vh>week11</vh>
+<v t="leo.20191213154247.2"><vh>week11-1</vh></v>
+</v>
+<v t="leo.20200110115519.1"><vh>week12</vh>
+<v t="leo.20200110115519.2"><vh>week12-1</vh></v>
+</v>
+<v t="leo.20200110114750.1"><vh>week15</vh>
+<v t="leo.20200110114750.2"><vh>week15-1</vh></v>
+</v>
+<v t="leo.20200110115804.1"><vh>week16</vh>
+<v t="leo.20200110115804.2"><vh>week16-1</vh></v>
+</v>
+<v t="leo.20200110120022.1"><vh>week17</vh>
+<v t="leo.20200110120022.2"><vh>week17-1</vh></v>
+</v>
+<v t="leo.20191213144252.1"><vh>快捷鍵</vh>
+<v t="leo.20191213144252.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
+<v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -39,38 +99,7 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## s40723216簡報
-
-
-
-&lt;small&gt;
-Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
-&lt;/small&gt;
-
-#[網站](https://s40723216.github.io/cad2019/blog/index.html)
-
-#[倉儲](https://github.com/s40723216/cad2019)
-
-#[blog](https://s40723216.github.io/cad2019/blog/index.html)
-
-
-</t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.12"># WEEK1 
-中秋連假
-
-
-</t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
+<t tx="leo.20180902120523.13">@others
 &lt;/section&gt;
 
 </t>
@@ -81,9 +110,6 @@ Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-
-						
 </t>
 <t tx="leo.20180902120523.15"># WEEK2(https://s40723216.github.io/cad2019/content/Week2~5.html)
 
@@ -92,6 +118,16 @@ math should get its own line and be put in in double-dollarsigns:
 
 $$I = \int \rho R^{2} dV$$
 </t>
+<t tx="leo.20180902120523.16">@others
+</t>
+<t tx="leo.20180902120523.17">@language python
+</t>
+<t tx="leo.20180902120523.18">@others
+
+
+						
+</t>
+<t tx="leo.20180902120523.19"></t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
 @tabwidth -4
@@ -177,15 +213,6 @@ s40723216簡報
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -262,5 +289,274 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191101144738.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191101144826.1">### cad2019d 課程簡介 (期中)
+
+* W2-先建立github倉儲，在clone到自己的隨身系統及分組
+* W3-Solvespace 編譯與繪圖應用基本操作
+* W5-Solvespace debugger編譯與繪圖示範
+* W6-架設blog
+* W7-V-rep無人車控制
+* W8-solvespace編譯-從HELP中ABOUT的學號及繪製零件
+* W9-以ssh對github連線</t>
+<t tx="leo.20191213143935.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213143935.3">* W10-由組長建立分組網站並且請組員加入分組網站
+* W11-找繪圖軟體安裝及其歷史資料
+* W12-組員個別整理電子書內容及webots 所有 tutorial 
+* W13-介紹各組進度</t>
+<t tx="leo.20191213144237.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191213144237.2">## s40723216簡報
+
+
+
+&lt;small&gt;
+Created by [林子欽](https://s40723216.github.io/cad2019/content/Week1~9.html)
+&lt;/small&gt;
+
+*[網站](https://s40723216.github.io/cad2019/blog/index.html)
+
+*[倉儲](https://github.com/s40723216/cad2019)
+
+*[blog](https://s40723216.github.io/cad2019/blog/index.html)
+
+
+</t>
+<t tx="leo.20191213144252.1">@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section&gt;
+</t>
+<t tx="leo.20191213144252.2">
+</t>
+<t tx="leo.20191213150029.1">### cad2019bg5 期末亂數分組
+
+##### 第五組
+##### 以下為組員及其倉儲
+[cad2019bg5 網站](https://s40723210.github.io/cad2019bg5/content/index.html)
+###### [40523252  王彥筑](https://s40723205.github.io/cad2019/content/index.html)
+###### [40723207  吳文翔](https://s40723207.github.io/cad2019/)
+###### [40723210  李承澤](https://s40723210.github.io/cad2019/)
+###### [40723216  林子欽](https://s40723216.github.io/cad2019/)
+##### [40723226  高立倫](https://s40723226.github.io/cad2019/)
+##### [40723232  陳鈺凱](https://s40723232.github.io/cad2019/)
+###### [40723236  黃宏裕](https://s40723236.github.io/cad2019/)
+###### [40732319  林鉦淯](https://s40732319.github.io/cad2019/)</t>
+<t tx="leo.20191213150029.2"># WEEK1 
+中秋連假
+
+</t>
+<t tx="leo.20191213151238.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20191213151238.2">### 本次評分課程標準
+######學員出席 (10%)
+
+###### 個人倉儲與網站查驗 (20%)
+
+###### Task1: 參數式繪圖軟體 Solvespace 編譯、零組件繪圖與應用 (10%)
+
+###### Task2: MCAD 套件安裝與設定, 零組件繪圖、轉檔與 CAE 工程分析 (10%)
+
+###### Task3: Rover 零組件轉入 V-rep 與 Webots 執行機電控制系統設計 (20%)
+
+###### Project: 機電資整合分組專案執行 (30%)
+####### [評分方式:每週自評與互評表單](https://forms.gle/raTtrfjv8cMMVSZd6)
+</t>
+<t tx="leo.20191213152115.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213152115.2">### week6
+#### ◎架設blog
+&lt;iframe width="560" height="315" src="https://youtu.be/L9YAYsLsORM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191213152359.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213152359.2">### week3
+#### ◎Solvespace debugger編譯
+&lt;iframe width="560" height="315" src="https://youtu.be/KsRULmWi-Os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191213152656.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213152656.2">### week1
+#### ◎更新完網站的推送過程
+&lt;iframe width="560" height="315" src="https://youtu.be/zWk2l1IycY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191213153119.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213153119.2">### week5
+#### ◎Solvespace 零件繪製
+&lt;iframe width="560" height="315" src="https://youtu.be/ZvZRASkGty8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191213153401.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213153401.2">### week7
+#### ◎V-rep無人車控制
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=8QXpQHpCAAs&amp;feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191213153619.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213153619.2">### week8
+#### ◎solvespace編譯-從HELP中ABOUT的學號
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=VQS2gs--BxE&amp;feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191213153850.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213153850.2">### week9
+#### ◎webot啟動檔設定
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=bxRBRcg07NU&amp;feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20191213154005.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213154005.2">### week10
+#### ◎以ssh對github連線
+#####1.到y槽的portablegit將sh_for_solvespace檔案複製並修改成sh.exe
+
+#####2.進入黑窗輸入sh和ssh-keygen -t rsa -b 4096 -C "使用者學號"
+
+#####3.下載putty連線工具箱並利用其中的putty.gen創建兩把金鑰
+
+#####4.修改啟動器中的指令
+
+set GIT_HOME=%Disk%:\portablegit\bin\
+set GIT_SSH=%Disk%:\putty\plink.exe
+
+#####5.進入config中更改指令url = git@github.com:mdecourse/cad2019.git在mdecourse的地方要改成自己的學號
+#####6.開啟putty.exe進去設定github.com和proxy位置其中ssh中的auth的地方必須選取剛剛創建的金鑰
+
+#####7.用編輯器複製課程網站中的step6指令並且儲存放入.ssh資料夾之中
+
+#####8.進入github並且在setting中的ssh將金鑰開啟並複製放入金鑰設置處</t>
+<t tx="leo.20191213154247.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191213154247.2">### week11
+#### ◎Fork倉儲
+&lt;iframe width="560" height="315" src="https://youtu.be/kULMk6BK79Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200110114750.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110114750.2">### week15
+#### ◎簡介自己倉儲
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VCCIsJUSYXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110115519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110115519.2">### week14
+#### ◎Webots Tutorial-2-操作過程
+#### [webot簡報](https://cyberbotics.com/doc/guide/tutorial-2-modification-of-the-environment)
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/psW0U8kAq-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110115804.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110115804.2">### week16
+#### ◎solvespace導入webot
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/flLLOELKO7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110120022.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110120022.2">### week17
+##### ◎繪製solvespace 各個零件檔1.桿子2.車體3.輪子
+
+##### 分組text[翻譯資料](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm )
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0LYQDLtd1cg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110124537.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110124537.2">### week10
+#### ◎以ssh對github連線
+#####1.到y槽的portablegit將sh_for_solvespace檔案複製並修改成sh.exe
+
+#####2.進入黑窗輸入sh和ssh-keygen -t rsa -b 4096 -C "使用者學號"
+
+#####3.下載putty連線工具箱並利用其中的putty.gen創建兩把金鑰
+
+#####4.修改啟動器中的指令
+
+set GIT_HOME=%Disk%:\portablegit\bin\
+set GIT_SSH=%Disk%:\putty\plink.exe
+
+#####5.進入config中更改指令url = git@github.com:mdecourse/cad2019.git在mdecourse的地方要改成自己的學號
+#####6.開啟putty.exe進去設定github.com和proxy位置其中ssh中的auth的地方必須選取剛剛創建的金鑰
+
+#####7.用編輯器複製課程網站中的step6指令並且儲存放入.ssh資料夾之中
+
+#####8.進入github並且在setting中的ssh將金鑰開啟並複製放入金鑰設置處</t>
 </tnodes>
 </leo_file>
